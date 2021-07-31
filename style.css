@@ -1,0 +1,21 @@
+.texto#undatointeresante{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: red;
+}
+.titulo{
+    font-size: 1em;
+    font-family: 'Fjalla One', sans-serif;
+    background-color: white;
+}
+.texto{
+    font-size: 1em;
+    font-family: 'Fjalla One', sans-serif;
+    background-color: white;
+}
+.titulo#undatointeresante{
+    font-size: 1.25em;
+    background-color: red;
+}
+body{
+    background-color: black;
+}
